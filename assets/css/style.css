@@ -1,0 +1,13 @@
+.post-date   {
+    background: #f4f4f4;
+    padding: 4px;
+    margin: 15px;
+    display: block;
+}
+
+.post-body {
+        background: inherit;
+        padding: 4px;
+        margin: 15px;
+        display: block;
+}
